@@ -1,10 +1,6 @@
 ginpprof
 ========
 
-[![GoDoc](https://godoc.org/github.com/chencaixiong/ginpprof?status.svg)](https://godoc.org/github.com/chencaixiong/ginpprof)
-[![Build
-Status](https://travis-ci.org/chencaixiong/ginpprof.svg?branch=master)](https://travis-ci.org/chencaixiong/ginpprof)
-
 A wrapper for [golang web framework gin](https://github.com/gin-gonic/gin) to use `net/http/pprof` easily.
 
 ## Install
